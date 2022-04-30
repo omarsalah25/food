@@ -5,4 +5,4 @@ pass :25324176Asdf
 
 npm start(the server) then cd client then npm start(the app it self)
 
-it does not contain delete or update the recipe,cuz i have problem with passing the id of the recipe it self 
+it does not contain edit & delete and update the recipe,cuz i have problem with passing the id of the recipe it self 
